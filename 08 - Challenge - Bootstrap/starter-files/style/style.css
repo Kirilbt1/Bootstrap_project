@@ -1,0 +1,52 @@
+.height-70{
+  height: 70vh;
+}
+
+.pic-import{
+   background-image: url(../Images/lights.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+  
+}
+.pic-two{
+ background-image: url(../Images/image1.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ height: 70vh;
+}
+/* button red on click*/
+.btn-red {
+   color: red;
+   background-color: white;
+   border: 1px solid red; 
+ }
+
+ .video-popup{
+   background-attachment: fixed;
+   background-image: url("../Images/media.jpg");
+   background-size: 100%;
+
+ }
+ .fa{
+   font-size: 50px;
+ }
+ .image-about-us{
+   margin-top: -50px;
+ }
+ .carousel-caption {
+   top: 40%;
+   transform: translateY(-40%);
+   bottom: auto;
+   /* margin-left: auto;
+   margin-right: auto; */
+ }
+ .fa-play{
+   cursor: pointer;
+ }
+ .thumbnail{
+   cursor: pointer;
+ }
+ .navbar .active{
+   border-left:2px solid  white;
+   padding-left: 5px;
+ }
